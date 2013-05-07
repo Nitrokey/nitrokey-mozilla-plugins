@@ -1,0 +1,9 @@
+{
+  "name": "cryptostick",
+  "fullName": "cryptostick",
+  "id": "jid1-AJv8BJFv4O7OFg",
+  "description": "The Crypto Stick is a USB key for secure encryption and authentication. This add-on enables the usage of the Crypto Stick with Firefox to securely authenticate users via SSL/TLS. It adds an appropriate PKCS#11 device driver to the Security Devices options",
+  "author": "Hon Nguyen",
+  "license": "GPLv3",
+  "version": "0.1"
+}
