@@ -2,3 +2,6 @@ This is an add-on for Mozilla Firefox and Thunderbird which installs OpenSC's PK
 
 # Status
 This add-on is outdated and may not work with the latest versions of Firefox or Thunderbird.
+
+# Links
+ * [IndieCert and Nitrokey](https://www.tuxed.net/fkooman/blog/indiecert_nitrokey.html)
